@@ -8,4 +8,4 @@ https://github.com/shawarkhanethicalhacker/BruteXSS-1
 
 
 
-! hi
+* hi
